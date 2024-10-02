@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there 👋
+I am Thanmayi Vempala and am currently pursuing a Bachelor's of Technology. I have keen interest in the field of AI/ML and Gen AI making me look forward to any oppurtunities to work or learn anything relating to that field. I have also had experience of working in the filed of Software development for my role as an intern at "TechStar". I am curious individual willing to learn and understand to upgrade my skillset. 
 
-<!--
-**Thanmayi2004/Thanmayi2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills:
+- Machine Learning
+- Python, Django
+- Data Science
 
-Here are some ideas to get you started:
+### 🌱 Currently exploring and learning:
+- Deep learning and AI
+- Generative AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I’m looking to collaborate on works related to AI/ML in different industries.
+📫 How to reach me: @vempalathanmayi@gmail.com
+
