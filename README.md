@@ -11,5 +11,6 @@ I am Thanmayi Vempala and am currently pursuing a Bachelor's of Technology. I ha
 - Generative AI
 
 -👯 I’m looking to collaborate on works related to AI/ML in different industries.
+
 -📫 How to reach me: @vempalathanmayi@gmail.com
 
